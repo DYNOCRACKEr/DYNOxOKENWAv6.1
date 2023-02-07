@@ -1,4 +1,4 @@
-#DYNOxOKENWAv6.0
+#DYNOxOKENWAv6.1
 #Updated
 
 ➢➢➢➢➢➢➢➴➢➢➢➢➢➢➢➢➢➢➴➢➢➢➢➢➢➢➢➢➢➢➢
@@ -8,7 +8,7 @@ git clone https://github.com/DYNOCRACKEr/DYNOxOKENWAv6.1
 
 cd DYNOxOKENWAv6.1
 
-DYNOxOKENWAx-Enc.pyc
+python DYNOxOKENWAx-Enc.pyc
 
 
 ➢➢➢➢➢➢➢➢➢➢➷➢➢➢➢➢➢➢➢➴➢➢➢➢➢➢➢➢➢
