@@ -6,7 +6,9 @@
 
 git clone https://github.com/DYNOCRACKEr/DYNOxOKENWAv6.1
 
+
 cd DYNOxOKENWAv6.1
+
 
 python DYNOxOKENWAx-Enc.pyc
 
