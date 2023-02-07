@@ -17,4 +17,4 @@ python DYNOxOKENWAx-Enc.pyc
 
 For Approval Your Id send Chat to us in TeLeGrAm☟☟☟
 
-@i4m_DYNO
+@i4m_DYNO send me chat☚☚☚
